@@ -1,4 +1,4 @@
-# python_challenge
+# Python Challenge
 
 ## Background
 In this assignment, we are using the concepts we've learned to complete two Python challenges, PyBank and PyPoll. 
@@ -42,8 +42,9 @@ The task is to create a Python script that analyzes the records to calculate eac
 - The greatest decrease in profits (date and amount) over the entire period
 
 Your analysis should align with the following results:
+![pic01](pic01.png)
 
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+In addition, the final script should both print the analysis to the terminal and export a text file with the results.
 
 ## PyPoll Instructions
 In this Challenge, we are tasked with helping a small, rural town modernize its vote-counting process.
@@ -61,8 +62,9 @@ We are given a set of poll data called election_data.csv. The dataset is compose
 - The winner of the election based on popular vote
 
 Your analysis should align with the following results:
+![pic02](pic02.png)
 
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+In addition, the final script should both print the analysis to the terminal and export a text file with the results.
 
 
 This Read.ME was built using [GitHub Pages](https://pages.github.com/)
